@@ -74,3 +74,4 @@ If you encounter issues:
 For additional details, refer to the official Waveshare wiki.
 
 I hope it helps : ) 
+Kudos to @42isanswer
